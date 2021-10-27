@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   AppCenter-Config.plist
+   SocialX
+
+   Created by bui Nghiep on 28/10/2021.
+   Copyright (c) 2021 ___ORGANIZATIONNAME___. All rights reserved.
+-->
+<plist version="1.0">
+  <dict>
+    <key>AppSecret</key>
+    <string>08d72c67-7f5b-447e-bf7d-c19bb77614b5</string>
+  </dict>
+</plist>
